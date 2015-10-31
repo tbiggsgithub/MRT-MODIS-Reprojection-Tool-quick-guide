@@ -8,7 +8,7 @@ MRT is used to subset and reproject MODIS data in spheriodal projection into lat
 	
 2.  In MRT/bin, double click “ModisTool.bat”.
 
-3.  Load example image.  In the GUI specify output params like projection, subset info, bands to export. 
+3.  Load an example image that you downloaded.  In the GUI specify output params like projection, subset info, bands to export. 
 
 4.  Save the MRT file as “prm” file as, e.g., "mod_projection_file_MRT.prm"
 
