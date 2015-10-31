@@ -20,7 +20,7 @@ where G:\images\MOD09_reflectance\ has the downloaded images,
 
 "G:\images\MOD09_reflectance\projected\mod_projection_file_MRT.prm" is the path and prm file from step 4, and "G:\images\MOD09_reflectance\projected\" is the output directory for the reprojected images.
 
-6.  Modify ”mrtbatch_generate.bat”, including the directory with the hdf files (after the -d), and the prm file (after the -p)
+6.  Modify ”mrtbatch_generate.bat”, including the directory with the hdf files (after the -d), the prm file (after the -p), and the output directory to put the reprojected images (after the -o).
 
 7.  In MRT/bin, double click “mrtbatch_generate.bat”.  Confirm that the output prm files were generated in the output directory.
 
